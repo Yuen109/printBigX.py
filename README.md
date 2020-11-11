@@ -1,11 +1,10 @@
 # printBigX.py
-print('''
-x      x
- x    x
-  x  x
-   x 
+ print('''
+x     x
+ x   x
+  x x
+   x
   x x
  x   x
 x     x
 ''')
-
